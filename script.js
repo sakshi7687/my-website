@@ -1,0 +1,1 @@
+alert('Hola from JS file')
