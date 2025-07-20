@@ -1,1 +1,1 @@
-alert('Hola from JS file')
+alert('Hola from JS')
